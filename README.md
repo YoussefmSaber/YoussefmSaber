@@ -47,11 +47,6 @@
 
 ## Languages and Tools  
 <div align="center">  
-<style>
-    a {
-      display: inline-block;
-    }
-  </style>
 <!-- android studio icon -->
 <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio" height="50" /></a> 
 
@@ -91,12 +86,12 @@
 <tr>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YoussefmSaber&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YoussefmSaber&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" align="left" />
 
 </td>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefmSaber&theme=vue-dark&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefmSaber&theme=vue-dark&hide_border=true&layout=compact" align="left"/>
 
 </td>
 </tr>
