@@ -15,17 +15,12 @@
 <br>
 ⚡ Fun fact: I like cats and birds 🐈🐦
 <br>
-📃 For more information about me <a href="https://docs.google.com/document/d/1A39nI6WA3tBmHzyM7wSKrdJ_VmgPa3xbdCeczSneRSI/edit?usp=sharing">Resume</a></p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+📃 For more information about me <a href="https://docs.google.com/document/d/1QiXNORZgSE_DfJCL3a3pDyjjq_GKy2QdKsr6jWHwQqU/edit?usp=sharing">Resume</a></p>
 
 ## My Skills and Tools  
-<table><tr><td valign="top" width="50%">
+<table>
+<tr>
+<td valign="top">
 
 <!-- Skills Section -->
 ### Skills  
@@ -50,7 +45,9 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td>
+
+<td valign="top">
 
 <!-- Tools Section -->
 ### Tools  
@@ -59,7 +56,7 @@
 <!-- android studio icon -->
 <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio" height="50" /></a> 
 
-
+<!-- vscode icon -->
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="VS code" height="50" /></a>  
 </div>
 
@@ -67,6 +64,6 @@
 
 <br/>  
 <div>
-  <img align="left" src="https://cdn.discordapp.com/attachments/981587143094845490/1074381569604726815/Untitled_video_-_Made_with_Clipchamp.gif" size="60%" />
-  <img align="right" src="https://cdn.discordapp.com/attachments/981587143094845490/1074382109487136829/Untitled_video_-_Made_with_Clipchamp_1.gif" size="40%" />
+  <img align="left" src="https://cdn.discordapp.com/attachments/981587143094845490/1074381569604726815/Untitled_video_-_Made_with_Clipchamp.gif" />
+  <img align="right" src="https://cdn.discordapp.com/attachments/981587143094845490/1074382109487136829/Untitled_video_-_Made_with_Clipchamp_1.gif"  />
 <div/>
