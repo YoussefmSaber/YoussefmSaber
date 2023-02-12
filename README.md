@@ -47,6 +47,7 @@
 ## Languages and Tools  
 <div>  
 <!-- android studio icon -->
+<span>
 <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio" height="50" /></a> 
 
 <!-- vscode icon -->
@@ -75,7 +76,8 @@
 
 <!-- mySql icon -->
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>  
+</span>
+</div> 
 
 <br/>  
 
