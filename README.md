@@ -17,8 +17,15 @@
 <br>
 📃 For more information about me <a href="https://docs.google.com/document/d/1QiXNORZgSE_DfJCL3a3pDyjjq_GKy2QdKsr6jWHwQqU/edit?usp=sharing">Resume</a></p>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## My Skills and Tools  
-<table>
+<table >
 <tr>
 <td valign="top">
 
@@ -65,5 +72,5 @@
 <br/>  
 <div>
   <img align="left" src="https://cdn.discordapp.com/attachments/981587143094845490/1074381569604726815/Untitled_video_-_Made_with_Clipchamp.gif" />
-  <img align="right" src="https://cdn.discordapp.com/attachments/981587143094845490/1074382109487136829/Untitled_video_-_Made_with_Clipchamp_1.gif"  />
+  <img align="right" src="https://cdn.discordapp.com/attachments/981587143094845490/1074382109487136829/Untitled_video_-_Made_with_Clipchamp_1.gif" width="240" height="240" />
 <div/>
