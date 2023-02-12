@@ -52,8 +52,6 @@
 
 </td><td valign="top" width="33%">
 
-</td><td valign="top" width="33%">
-
 <!-- Tools Section -->
 ### Tools  
 <div align="center">  
@@ -69,6 +67,6 @@
 
 <br/>  
 <div>
-  <img align="left" src="https://cdn.discordapp.com/attachments/981587143094845490/1074381569604726815/Untitled_video_-_Made_with_Clipchamp.gif" width="60%" />
-  <img align="right" src="https://cdn.discordapp.com/attachments/981587143094845490/1074382109487136829/Untitled_video_-_Made_with_Clipchamp_1.gif" width="40%" />
+  <img align="left" src="https://cdn.discordapp.com/attachments/981587143094845490/1074381569604726815/Untitled_video_-_Made_with_Clipchamp.gif" size="60%" />
+  <img align="right" src="https://cdn.discordapp.com/attachments/981587143094845490/1074382109487136829/Untitled_video_-_Made_with_Clipchamp_1.gif" size="40%" />
 <div/>
