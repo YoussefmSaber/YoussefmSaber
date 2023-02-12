@@ -1,23 +1,22 @@
 <h2 align="left" style="font-size: 2rem;">
   Hi there 👋! i'm Youssef
-  <a>
-    <img align="right" src="https://kounter.tk/badge/YoussefmSaber.kounter?label=&color=52796f&style=for-the-badge&cntSuffix=%20Profile%20Views&silent=false" />
+    <a>
+        <img align="right" src="https://kounter.tk/badge/YoussefmSaber.kounter?label=&color=52796f&style=for-the-badge&cntSuffix=%20Profile%20Views&silent=false" />
   </a>
+    <a href="https://github.com/YoussefmSaber" target="_blank">
+        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://linkedin.com/in/youssefmohammedsaber" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>  
 </h2>
-  
-<a href="https://github.com/YoussefmSaber" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/youssefmohammedsaber" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+
 <br/>  
 
 ## Rapidfire  
-<table>
-<tr>
-<td valign="top" width="50%">
+<table border="none">
+<tr border="none">
+<td valign="top" width="50%" border="none">
 
 - 🔭 I’m currently working on [Eshfeeny](https://github.com/YoussefmSaber/Eshfeeny)  
   
@@ -32,7 +31,7 @@
 <br>  
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" border="none">
 
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/981587143094845490/1074368823651749918/octocat-1676010233258.png" align="center" style="width: 100%" />
@@ -82,14 +81,14 @@
 
 
 ## Github Stats  
-<table>
-<tr>
-<td valign="top" width="50%">
+<table border="none">
+<tr border="none">
+<td valign="top" width="50%" border="none">
 
 <img src="https://github-readme-stats.vercel.app/api?username=YoussefmSaber&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" align="left" />
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" border="none">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefmSaber&theme=vue-dark&hide_border=true&layout=compact" align="left"/>
 
