@@ -16,7 +16,7 @@
 ## Rapidfire  
 <table>
 <tr>
-<td valign="top" width="50%" border="0px">
+<td valign="top" width="50%" border="0">
 
 - 🔭 I’m currently working on [Eshfeeny](https://github.com/YoussefmSaber/Eshfeeny)  
   
