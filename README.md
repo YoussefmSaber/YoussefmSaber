@@ -56,7 +56,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YoussefmSaber&show_icons=true&theme=vue-dark&count_private=true&hide_border=true"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefmSaber&theme=vue-dark&hide_border=true&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefmSaber&theme=vue-dark&hide_border=true&layout=compact" height="195"/>
 </div>
 
 <br>  
