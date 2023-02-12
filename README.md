@@ -4,73 +4,104 @@
     <img align="right" src="https://kounter.tk/badge/YoussefmSaber.kounter?label=&color=52796f&style=for-the-badge&cntSuffix=%20Profile%20Views&silent=false" />
   </a>
 </h2>
+  
+<a href="https://github.com/YoussefmSaber" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/youssefmohammedsaber" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
+<br/>  
 
-<img align="right" width="38%" src="https://cdn.discordapp.com/attachments/981587143094845490/1074368823651749918/octocat-1676010233258.png"/>
-
-<h4 align="left">I'm Youssef, an android developer 👨‍💻 from Egypt</h4>
-
-<p align="left">🔭 I’m currently working on <a href="https://github.com/YoussefmSaber/Eshfeeny">Eshfeeny</a>
-<br>
-🌱 I’m currently learning Jetpack Compose
-<br>
-⚡ Fun fact: I like cats and birds 🐈🐦
-<br>
-📃 For more information about me <a href="https://docs.google.com/document/d/1QiXNORZgSE_DfJCL3a3pDyjjq_GKy2QdKsr6jWHwQqU/edit?usp=sharing">Resume</a></p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-## My Skills and Tools  
-<table >
+## Rapidfire  
+<table>
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
 
-<!-- Skills Section -->
-### Skills  
-<div align="center">
+- 🔭 I’m currently working on [Eshfeeny](https://github.com/YoussefmSaber/Eshfeeny)  
+  
 
-<!-- android icon -->
-<a href="https://developer.android.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+- 🌱 I’m currently learning Jetpack Compose  
+  
 
-<!-- kotlin icon -->
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>
+- ⚡ Fun fact: I like cats and birds 🐈🐦
 
-<!-- java icon -->
-<a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
 
-<!-- firebase icon -->
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-
-<!-- matrial ui icon -->
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Matrial UI" height="50" /></a> 
-
-<!-- git icon -->
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+- 📃 For more information about me [Resume](https://docs.google.com/document/d/1QiXNORZgSE_DfJCL3a3pDyjjq_GKy2QdKsr6jWHwQqU/edit?usp=sharing)
+<br>  
 
 </td>
+<td valign="top" width="50%">
 
-<td valign="top">
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/981587143094845490/1074368823651749918/octocat-1676010233258.png" align="center" style="width: 100%" />
+</div>  
 
-<!-- Tools Section -->
-### Tools  
+</td>
+</tr>
+</table>  
+
+<br/>  
+
+
+## Languages and Tools  
 <div align="center">  
-
 <!-- android studio icon -->
 <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio" height="50" /></a> 
 
 <!-- vscode icon -->
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="VS code" height="50" /></a>  
-</div>
 
-</td></tr></table>  
+
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  
+
+
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" /></a>  
+
+
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
+
+
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a> 
+
+
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
+
+
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+
+
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
+
+
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+</div>  
 
 <br/>  
+
+
+## Github Stats  
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YoussefmSaber&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td>
+<td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefmSaber&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td>
+</tr>
+</table>  
+
+<br/>  
+<br/>  
+<br/>  
+<br/>
 <div>
-  <img src="https://cdn.discordapp.com/attachments/981587143094845490/1074381569604726815/Untitled_video_-_Made_with_Clipchamp.gif" />
-  <img src="https://cdn.discordapp.com/attachments/981587143094845490/1074382109487136829/Untitled_video_-_Made_with_Clipchamp_1.gif" width="240" height="240" />
+  <img src="https://cdn.discordapp.com/attachments/981587143094845490/1074381569604726815/Untitled_video_-_Made_with_Clipchamp.gif" align="left" style="width: 100%" />
+  <img src="https://cdn.discordapp.com/attachments/981587143094845490/1074382109487136829/Untitled_video_-_Made_with_Clipchamp_1.gif" align="left" width="240" height="240" />
 <div/>
