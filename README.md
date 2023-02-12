@@ -45,7 +45,7 @@
 
 
 ## Languages and Tools  
-<div align="center">  
+<div>  
 <!-- android studio icon -->
 <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio" height="50" /></a> 
 
@@ -98,7 +98,7 @@
 
 <br/>  
 <br/>  
-<div>
-  <img src="https://cdn.discordapp.com/attachments/981587143094845490/1074381569604726815/Untitled_video_-_Made_with_Clipchamp.gif" align="left" width="240" height="240"/>
-  <img src="https://cdn.discordapp.com/attachments/981587143094845490/1074382109487136829/Untitled_video_-_Made_with_Clipchamp_1.gif" align="right" width="240" height="240" />
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/981587143094845490/1074381569604726815/Untitled_video_-_Made_with_Clipchamp.gif"  width="240" height="240"/>
+  <img src="https://cdn.discordapp.com/attachments/981587143094845490/1074382109487136829/Untitled_video_-_Made_with_Clipchamp_1.gif" width="240" height="240" />
 <div/>
