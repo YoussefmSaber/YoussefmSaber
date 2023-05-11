@@ -56,7 +56,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YoussefmSaber&show_icons=true&theme=vue-dark&count_private=true&hide_border=true"/>
 
 </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <br>  
 <br>  
 <div align="center">
