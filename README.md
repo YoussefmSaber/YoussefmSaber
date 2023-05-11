@@ -56,7 +56,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YoussefmSaber&show_icons=true&theme=vue-dark&count_private=true&hide_border=true"/>
 
 </div>
-  <div>
+  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YoussefmSaber&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   </div>
 <br>  
