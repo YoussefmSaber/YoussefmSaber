@@ -57,7 +57,7 @@
 
 </div>
   <div>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=YoussefmSaber&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YoussefmSaber&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   </div>
 <br>  
 <br>  
