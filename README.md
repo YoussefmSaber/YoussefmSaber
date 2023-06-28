@@ -29,9 +29,9 @@
 <!-- java icon -->
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
 <!-- Dart icon -->
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Dart" height="50" /></a>
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/dart-programming-language-icon.png" alt="Dart" height="50" /></a>
 <!-- Flutter icon -->
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/flutter-icon-413x512-4picx6vy.png" alt="Dart" height="50" /></a>
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/flutter-icon-413x512-4picx6vy.png" alt="Flutter" height="50" /></a>
 <!-- C++ icon -->
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
 <!-- mySql icon -->
