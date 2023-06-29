@@ -13,9 +13,9 @@
 
 <img align="right" width="38%" src="https://cdn.discordapp.com/attachments/981587143094845490/1074368823651749918/octocat-1676010233258.png"/>
 
-<h4 align="left">And I'm an android developer from Egypt</h4>
+<h4 align="left">And I'm an Mobile App Developer from Egypt</h4>
 <br><br>
-<p align="left">🔭 I’m currently working on <a href="https://github.com/YoussefmSaber/Eshfeeny">Eshfeeny</a><br><br><br>🌱 I’m currently learning Jetpack Compose<br><br><br>⚡ Fun fact: I like cats and birds 🐈🐦<br><br><br>📃 For more information about me <a https://docs.google.com/document/d/1QiXNORZgSE_DfJCL3a3pDyjjq_GKy2QdKsr6jWHwQqU/edit?usp=sharing">Resume</a></p>
+<p align="left">🔭 I’m currently working on <a href="https://github.com/YoussefmSaber/Eshfeeny">Eshfeeny</a><br><br><br>🌱 I’m currently learning Flutter Framework<br><br><br>⚡ Fun fact: I like cats and birds 🐈🐦<br><br><br>📃 For more information about me <a https://docs.google.com/document/d/1QiXNORZgSE_DfJCL3a3pDyjjq_GKy2QdKsr6jWHwQqU/edit?usp=sharing">Resume</a></p>
 
 <br/>
 
