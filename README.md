@@ -1,11 +1,11 @@
 <h2 align="left" style="font-size: 2rem;">
   Hi there 👋! I'm Youssef 
-    <a>
-        <img align="right" src="https://kounter.tk/badge/YoussefmSaber.kounter?label=&color=52796f&style=for-the-badge&cntSuffix=%20Profile%20Views&silent=false" />
-  </a>
     <a href="https://github.com/YoussefmSaber" target="_blank">
         <img align="right" src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
+   <a href="https://linkedin.com/in/youssefmohammedsaber" target="_blank">
+        <img align="right" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>  
 </h2>
 
 <img align="right" width="38%" src="[https://cdn.discordapp.com/attachments/981587143094845490/1074368823651749918/octocat-1676010233258.png](https://cdn.discordapp.com/attachments/852948638652039200/1307746036701335623/octocat-1730826036673.png"/>
