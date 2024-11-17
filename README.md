@@ -6,12 +6,9 @@
     <a href="https://github.com/YoussefmSaber" target="_blank">
         <img align="right" src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="https://linkedin.com/in/youssefmohammedsaber" target="_blank">
-        <img align="right" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-    </a>  
 </h2>
 
-<img align="right" width="38%" src="[https://cdn.discordapp.com/attachments/981587143094845490/1074368823651749918/octocat-1676010233258.png](https://cdn.discordapp.com/attachments/852948638652039200/1307746036701335623/octocat-1730826036673.png?ex=673b6ce7&is=673a1b67&hm=9cf1f290487b4db2ef9d4d68fdf93163c3ea05ccf193d82505fb08e741fe8bd4&)"/>
+<img align="right" width="38%" src="[https://cdn.discordapp.com/attachments/981587143094845490/1074368823651749918/octocat-1676010233258.png](https://cdn.discordapp.com/attachments/852948638652039200/1307746036701335623/octocat-1730826036673.png"/>
 
 <h4 align="left">I'm an Android App Developer from Egypt</h4>
 <br><br>
