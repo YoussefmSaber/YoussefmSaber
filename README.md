@@ -12,8 +12,8 @@
 
 <h4 align="left">I'm an Android App Developer from Egypt</h4>
 <br><br>
-<p align="left">🔭 I’m currently working on <a href="https://github.com/YoussefmSaber/Greenery">Greenery</a><br><br><br>🌱 I’m currently learning Compose API
-  <br><br><br>⚡ Fun fact: I like cats and birds 🐈🐦
+<p align="left">🔭 I’m currently working on <a href="https://github.com/YoussefmSaber/Food-Recipe">Food Recipe</a><br><br><br>🌱 I’m currently learning Compose API
+  <br><br><br>⚡ Fun fact: Tetris is a russian game 👾
   <br><br><br>📃 For more information about me <a href="https://drive.google.com/file/d/1XmIsvzvKlq9AE2bSjUs0ffCr_uAP27qB/view?usp=sharing">Resume</a></p>
 
 <br/>
