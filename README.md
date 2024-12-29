@@ -13,7 +13,7 @@
 <h4 align="left">I'm an Android App Developer from Egypt</h4>
 <br><br>
 <p align="left">🔭 Currently working on <a href="https://github.com/YoussefmSaber/Food-Recipe">Yum Yard</a><br><br><br>🌱 I’m currently learning Compose API
-  <br><br><br>⚡ Fun fact: Tetris is a russian game 👾
+  <br><br><br>⚡ Fun fact: Did you know that every major version of Android up to Android 10 was named after a dessert or sweet treat 🎂.
   <br><br><br>📃 For more information about me <a href="https://drive.google.com/file/d/11sJaroDnWg9MxXC7JY4kfIm3AGq-pYy7/view?usp=drive_link">Resume</a></p>
 
 <br/>
