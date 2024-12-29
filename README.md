@@ -8,8 +8,6 @@
   </a>
 </h2>
 
-<img align="right" width="38%" src="https://cdn.discordapp.com/attachments/852948638652039200/1307746036701335623/octocat-1730826036673.png?ex=673b6ce7&is=673a1b67&hm=9cf1f290487b4db2ef9d4d68fdf93163c3ea05ccf193d82505fb08e741fe8bd4" alt="Octocat"/>
-
 <h4 align="left">I'm an Android App Developer from Egypt</h4>
 
 <p align="left">
@@ -65,8 +63,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/981587143094845490/1074381569604726815/Untitled_video_-_Made_with_Clipchamp.gif" width="240" height="240" alt="GIF 1"/>
-  <img src="https://cdn.discordapp.com/attachments/981587143094845490/1074382109487136829/Untitled_video_-_Made_with_Clipchamp_1.gif" width="240" height="240" alt="GIF 2"/>
-</div>
