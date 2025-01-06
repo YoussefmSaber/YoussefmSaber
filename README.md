@@ -13,7 +13,7 @@
 <p align="left">
   🔭 Currently working on <a href="https://github.com/YoussefmSaber/Food-Recipe">Yum Yard</a><br>
   🌱 I’m currently learning Compose API<br>
-  ⚡ Fun fact: Every major version of Android up to Android 10 was named after a dessert or sweet treat 🎂.<br>
+  ⚡ Fun fact: The name "Kotlin" comes from Kotlin Island, near St. Petersburg, Russia—the city where JetBrains, the creators of Kotlin, are headquartered. .<br>
   📃 For more information about me, check out my <a href="https://drive.google.com/file/d/11sJaroDnWg9MxXC7JY4kfIm3AGq-pYy7/view?usp=drive_link">Resume</a>.
 </p>
 
