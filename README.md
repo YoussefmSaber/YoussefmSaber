@@ -13,8 +13,9 @@
 <p align="left">
   🔭 Currently working on <a href="https://github.com/YoussefmSaber/Food-Recipe">Yum Yard</a><br>
   🌱 I’m currently learning Compose API<br>
-  ⚡ Fun fact: The name "Kotlin" comes from Kotlin Island, near St. Petersburg, Russia—the city where JetBrains, the creators of Kotlin, are headquartered. .<br>
-  📃 For more information about me, check out my <a href="https://drive.google.com/file/d/18C9oFfjkN4BsVVjRYPG1ocAcujuk6xPp/view?usp=drive_link">Resume</a>.
+  ⚡ Fun fact: The name "Kotlin" comes from Kotlin Island, near St. Petersburg, Russia—the city where JetBrains, the creators of Kotlin, are headquartered.<br>
+  📃 For more information about me, check out my <a href="https://drive.google.com/file/d/18C9oFfjkN4BsVVjRYPG1ocAcujuk6xPp/view?usp=drive_link">Resume</a>.<br>
+  💻 You can find more about my work through my  <a href="https://youssefmsaber.tech">Portfolio</a>
 </p>
 
 ---
